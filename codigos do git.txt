@@ -30,6 +30,8 @@ Git merge: puxa o arquivo altera de uma branch para outra
 
 Git pull: para atuaslizar a branch que será adicionada 
 
+touch .gitignore: cria um arquivo .txt aonde será add todos os arquivos que não devem ser uppados para nuvem
+
 
 
 
