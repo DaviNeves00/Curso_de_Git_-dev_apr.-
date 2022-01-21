@@ -6,4 +6,7 @@ equais não foram.
 Git add + "nome do arquivo": para adicionar um arquivo no Git
 
 Git add .: para adicionar todos arquivos não adicionados
+
+Git push: para subir os arquivos para nuvem
+
  
