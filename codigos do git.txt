@@ -11,4 +11,9 @@ Git push: para subir os arquivos para nuvem
 
 Git remote add origin + "lind do repositório do GitHub": para selecionar o repositório que vo~ê deseja subir
 o arquivo
+
+Git reflog: para observar as alterações/commits que foram feitos
+
+Git reset --hard + código da versão que deseja retornar 
+
  
