@@ -1,0 +1,9 @@
+Git init: primeiro código a ser digitado
+
+Git status: para ver o status do Git e quais arquivos foram adicionados 
+equais não foram.
+
+Git add + "nome do arquivo": para adicionar um arquivo no Git
+
+Git add .: para adicionar todos arquivos não adicionados
+ 
