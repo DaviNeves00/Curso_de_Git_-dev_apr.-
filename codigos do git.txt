@@ -16,4 +16,11 @@ Git reflog: para observar as alterações/commits que foram feitos
 
 Git reset --hard + código da versão que deseja retornar 
 
+Git Branch: para mostrar quais e quantas branch's estão criadas/sendo usadas
+
+Git branch + nome alertório para uma nova branch: cria outra branch
+
+Git check out + nome da branch: troca de branch, sai da branch master e vai para a selecionada
+
+
  
