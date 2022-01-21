@@ -22,5 +22,9 @@ Git branch + nome alertório para uma nova branch: cria outra branch
 
 Git check out + nome da branch: troca de branch, sai da branch master e vai para a selecionada
 
+Git merge: puxa o arquivo altera de uma branch para outra
+
+
+
 
  
