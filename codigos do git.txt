@@ -28,6 +28,8 @@ Git check out + nome da branch: troca de branch, sai da branch master e vai para
 
 Git merge: puxa o arquivo altera de uma branch para outra
 
+Git pull: para atuaslizar a branch que será adicionada 
+
 
 
 
