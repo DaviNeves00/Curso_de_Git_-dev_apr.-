@@ -11,5 +11,25 @@ Git push: para subir os arquivos para nuvem
 
 Git remote add origin + "lind do repositório do GitHub": para selecionar o repositório que vo~ê deseja subir
 o arquivo
+<<<<<<< HEAD
  
 Git relog: para analisar as alterações/commits feitos 
+=======
+
+Git reflog: para observar as alterações/commits que foram feitos
+
+Git reset --hard + código da versão que deseja retornar 
+
+Git Branch: para mostrar quais e quantas branch's estão criadas/sendo usadas
+
+Git branch + nome alertório para uma nova branch: cria outra branch
+
+Git check out + nome da branch: troca de branch, sai da branch master e vai para a selecionada
+
+Git merge: puxa o arquivo altera de uma branch para outra
+
+
+
+
+ 
+>>>>>>> checkout
